@@ -4,7 +4,7 @@
 
 body {
     /* Override bootstrap properties */
-    background-image: url("/images/bbggn.jpg");
+    background-image: url(../images/bbggn.jpg);
     background-position: center ; 
     background-size: cover;
     background-repeat: no-repeat; 
